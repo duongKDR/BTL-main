@@ -25,33 +25,50 @@
   border-radius: 10px;
   margin-bottom: 15px;
 }
-.login_logout {
-  display: flex;
-  flex-wrap: wrap;
-}
 
-.login_left {
-  justify-content: space-around;
-}
 .login_right {
-  justify-content: flex-end;
-}
-.PeA8Gc {
-  display: flex;
-}
-._3M9lzn {
   min-height: 600px;
   margin: 0 auto;
   width: 1200px;
+  justify-content: flex-end;
 }
+
 .logo {
-  background-image: url("../img/blue.png");
+  background-image: url("../img/logo-bl.jpg");
   background-size: cover;
   z-index: 3;
   background-repeat: no-repeat;
   background-position: center center;
 }
-.MIUGgs {
-  flex-direction: column;
-  justify-content: center;
+
+.B-f {
+  /* width: 400px; */
+  height: 400px;
+  margin: 50px;
+}
+.form-clor {
+  background-color: #fff;
+  box-sizing: border-box;
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.14);
+  border-radius: 4px;
+  width: 500px;
+}
+.input-form {
+  padding: 0.75rem;
+  outline: none;
+  border: 0;
+  flex: 1;
+  flex-shrink: 1;
+  flex-shrink: 0;
+  filter: none;
+  font-size: large;
+}
+.pading {
+  box-sizing: border-box;
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  border-radius: 2px;
+  box-shadow: inset 0 2px 0 rgba(0, 0, 0, 0.02);
 }
