@@ -27,4 +27,31 @@
 }
 .login_logout {
   display: flex;
+  flex-wrap: wrap;
+}
+
+.login_left {
+  justify-content: space-around;
+}
+.login_right {
+  justify-content: flex-end;
+}
+.PeA8Gc {
+  display: flex;
+}
+._3M9lzn {
+  min-height: 600px;
+  margin: 0 auto;
+  width: 1200px;
+}
+.logo {
+  background-image: url("../img/blue.png");
+  background-size: cover;
+  z-index: 3;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.MIUGgs {
+  flex-direction: column;
+  justify-content: center;
 }
