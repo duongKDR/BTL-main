@@ -269,7 +269,7 @@ i {
 .list-logo {
   background-color: #fff;
   display: flex;
-  gap: 40px;
+  gap: 175px;
   text-align: center;
   font-size: 14px;
   padding-bottom: 10px;
@@ -297,7 +297,7 @@ i {
 
 .list-product {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
 }
 
 .product {
