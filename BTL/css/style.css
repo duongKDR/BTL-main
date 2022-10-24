@@ -638,7 +638,10 @@ sup {
   top: 96%;
   right: 0;
 }
-
+.anh{
+  width: 250px;
+  height: 250px;
+}
 .anh img {
   width: 100%;
   position: relative;
