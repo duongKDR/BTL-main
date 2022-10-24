@@ -55,7 +55,8 @@ header {
   list-style: none;
   padding: 0 8px;
 }
-
+.a{    text-decoration: none !important;
+}
 .menu ul li a {
   color: #fff;
   text-decoration: none;
@@ -512,6 +513,7 @@ sup {
 }
 
 .lg {
+  
   position: relative;
   padding: 15px;
 }
