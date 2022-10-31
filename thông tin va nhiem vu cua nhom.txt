@@ -1,0 +1,21 @@
+Thông tin thành viên nhóm
+I Thông tin nhành viên:
+Nhóm trưởng:
+Đào Thùy Dương - 2021050159
+Thành viên:
+Nguyễn Phương Lâm - 202
+Trần Hoàng Diệu 
+Lưu Tiến Đạt
+II. Thông tin bài tập lớn
+1. website
+Tên shop: BULE SKY
+- Bán quần áo và phụ kiện
+- Sử dụng html, css,javascript, jquery
+2.Nhiệm vụ từng thành viên
+Đào Thùy Dương - 2021050159 (nhóm trưởng)-làm trang chủ,trang chi tiết, giỏ hàng, chỉnh sửa css của nhóm, jquery;
+
+Nguyễn Phương Lâm -  :làm trang danh mục sản phẩm.
+
+Trần Hoàng Diệu - : Làm trang đăng nhập-đăng kí.
+
+Lưu Tiến Đạt -  : Làm trang liên hệ,làm logo, tìm ảnh,desgin.
