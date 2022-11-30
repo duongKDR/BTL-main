@@ -20,6 +20,7 @@ include('admin_sidebar.php');
             <th>Xóa đơn đặt hàng</th>
         </tr>
         <?php
+        
         $sql = "SELECT * FROM `order`";
         $res = mysqli_query($con, $sql);
         $i = 0;
