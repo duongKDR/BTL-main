@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./img/sky.png" type="image/x-icon" />
-
-    <link rel="stylesheet" href="fonts/fontawesome-free-6.2.0-web/css/all.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/style3_lam.css">
-    <title>BLUE SKY</title>
-</head>
-
-<body>
-
-
-
-
-    <main class="full">
+<main class="full">
         <div class="link">
             <ul>
                 <b><a href="index.html">Trang chủ</a> </b>
@@ -69,8 +46,7 @@
                                 <section class="products">
                                     <nav class="balo dropdown">
                                         <div class="anh">
-                                            <a href="#"><img src="./assets/image/product/tt1.jpg" class="iw"
-                                                    alt="abc"></a>
+                                            <a href="#"><img src="./img/keptoc.png" class="iw" alt="abc"></a>
 
                                             <div class="free_ship">
                                                 <img src="img/logo5.png" alt="" h>
@@ -172,11 +148,12 @@
                                 <section class="products">
                                     <nav class="balo dropdown">
                                         <div class="anh">
-                                            <a href="#"><img src="./assets/image/product/tt1.jpg" class="iw"
-                                                    alt="abc"></a>
+                                            <a href="#"><img
+                                                    src="https://cf.shopee.vn/file/7e416f3cf3bf2fc46cc7b4f5e98841c0"
+                                                    class="iw" alt=""></a>
 
                                             <div class="free_ship">
-                                                <img src="img/logo5.png" alt="" h>
+                                                <img src="img/logo5.png" alt="">
 
                                             </div>
                                             <div class="like">Yêu thích</div>
@@ -199,11 +176,15 @@
                                     </nav>
                                     <nav class="balo dropdown">
                                         <div class="anh">
-                                            <img src="./assets/image/product/2.jpg" alt="abc">
+                                            <a href="#"><img
+                                                    src="https://cf.shopee.vn/file/7e416f3cf3bf2fc46cc7b4f5e98841c0"
+                                                    class="iw" alt=""></a>
+
                                             <div class="free_ship">
-                                                <img src="https://tnj.vn/19883-large_default/qua-tang-me-nn0217.jpg"
-                                                    alt="">
+                                                <img src="img/logo5.png" alt="">
+
                                             </div>
+                                            <div class="like">Yêu thích</div>
                                         </div>
                                         <div class="ct">
                                             <p style="font-size: 16px;"> Nhẫn bạc đẹp</p>
@@ -383,7 +364,3 @@
             </div>
         </section>
     </main>
-
-</body>
-
-</html>
