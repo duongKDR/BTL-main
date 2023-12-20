@@ -1,3 +1,6 @@
+<?php
+include('header.php');
+?>
 <body>
 
 
@@ -612,3 +615,6 @@
     </main>
   
 </body>
+<?php
+include('footer.php');
+?>

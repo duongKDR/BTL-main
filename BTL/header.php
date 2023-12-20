@@ -22,18 +22,18 @@ include('functions.php')
         <section class="menu top">
             <nav class="menu left mg">
                 <ul>
-                    <li><a href="home.php" <?php if ($active == 'Home') echo "active"; ?>>Trang chủ ||</a></li>
+                    <li><a href="home.php" >Trang chủ ||</a></li>
 
                     <div class="dropdown">
-                        <li><a href="contact.php"  <?php if ($active == 'Contact') echo "active"; ?>>Liên hệ</a></li>
+                        <li><i class="fa-regular fa-circle-question"></i><a href="contact.php"  >Liên hệ</a></li>
                         <div class="hidden boder">
-                            <?php
+                            <!-- <?php
                             if (!isset($_SESSION['user_email'])) {
                                 echo "Xin chào";
                             } else {
                                 echo " Xin chào: " . $_SESSION['user_email'] . "";
                             }
-                            ?>
+                            ?> -->
                         </div>
                     </div>
                     <li><i class="fa-brands fa-facebook"></i><i class="fa-brands fa-instagram"></i></li>
@@ -44,7 +44,7 @@ include('functions.php')
                  
 
                     </div>
-                    <li><i class="fa-regular fa-circle-question"></i></i><a href="">Hỗ trợ</a></li>
+                 
                     <div class="dropdown">
                         <li><i class="fa-solid fa-globe"></i><a href="">Tiếng Việt</a><i class="fa-sharp fa-solid fa-angle-down"></i></li>
 
